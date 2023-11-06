@@ -46,7 +46,7 @@ Ensure that your system meets the following requirements:
 
 
 ### Usage
-To replicate the study or use the code, follow the instructions provided in each notebook. Make sure to activate the conda environment before launching Jupyter Notebook.
+Make sure to activate the conda environment before launching Jupyter Notebook. Then just simply run our codes.
 
 
 ### Contributing
@@ -58,3 +58,6 @@ Distributed under the MIT License. See LICENSE for more information.
 ### Contact
 For any queries regarding the code or the paper, please open an issue in this repository.
 
+### Acknowledgments
+
+The authors wish to thank doctoral student Xianjia Yu for his support and assistance.
