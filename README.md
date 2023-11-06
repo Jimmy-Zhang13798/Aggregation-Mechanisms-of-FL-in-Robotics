@@ -60,4 +60,5 @@ For any queries regarding the code or the paper, please open an issue in this re
 
 ### Acknowledgments
 
-The authors wish to thank doctoral student Xianjia Yu for his support and assistance.
+The authors wish to thank doctoral student [Xianjia Yu](xianjia.yu@utu.fi)
+ for his support and assistance.
